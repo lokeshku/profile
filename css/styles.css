@@ -1,0 +1,155 @@
+body{
+margin:0px;
+text-align: center;
+font-family: "Arvo",serif;
+}
+.dash1{
+  position: relative;
+  top:100px;
+}
+.dash2{
+  position: relative;
+  bottom:10px;
+}.dash3{
+  position: relative;
+  top:30px;
+}.dash4{
+  position: relative;
+  top:50px;
+}.dash5{
+  position: relative;
+  top:50px;
+}
+hr{
+border-width: 5px;
+  width:20%;
+  border-style: dotted none none none;
+}
+h1{
+font-family: 'Dancing Script', cursive;
+}
+.name{
+  margin:0 auto 0 auto;
+  position: relative;
+  bottom:50px;
+}
+.top-bar{
+  background-color: #28abb9;
+  position: fixed;
+  top:10px;
+}
+.work{
+  margin:0;
+  display: inline-block;
+font-size: 30px;
+  position:absolute;
+  left:10px;
+}
+.about{
+  margin:0;
+  display: inline-block;
+  font-size: 30px;
+  position:absolute;
+  left:150px;
+}
+.contact
+{
+  margin:0;
+  display: inline-block;
+  font-size: 30px;
+  position:absolute;
+  left:1100px;
+}
+.top-box{
+  background-color: #28abb9;
+  position: relative;
+  padding-top: 120px ;
+  height:500px;
+  width:100%;
+}
+.bottom-cloud{
+  position: relative;
+  bottom: 180px;
+  right: 230px;
+}
+.top-cloud{
+  position:relative;
+  left:150px;
+  bottom:50px;
+}
+.web-developer{
+  position: relative;
+  top:150px;
+  left:80px;
+  height: 100px;
+  width: 100px;
+}
+.mountain{
+  height: 200px;
+  width: 200px;
+  position:relative;
+  top:100px;
+  right:80px;
+}
+
+.middle-box{
+    position: relative;
+  background-color: #2d6187;
+  padding-top: 120px ;
+  height:500px;
+  width:100%;
+}
+.bottom-box{
+    position: relative;
+  background-color: #effad3;
+  padding-top: 120px ;
+  height:500px;
+  width:100%;
+}
+.bottom-box1{
+    position: relative;
+  background-color: #a8dda8;
+  padding-top: 120px ;
+  height:500px;
+  width:100%;
+}
+.bottom-box2{
+    position: relative;
+  background-color: #f1f6f9;
+  padding-top: 120px ;
+  height:500px;
+  width:100%;
+}
+.front{
+  position:relative;
+  height: 350px;
+  width: 350px;
+}
+.back{
+  position:relative;
+  height: 350px;
+  width: 350px;
+}
+.angular{
+  position: relative;
+  top:10px;
+  right:10px;
+  height: 300px;
+  width: 300px;
+}
+.node{
+  position: relative;
+  top:10px;
+  right:10px;
+  height: 300px;
+  width: 300px;
+}
+.last{
+  background-color: #28abb9;
+  height:100px;
+  width:100%;
+}
+.last1{
+  display: inline-block;
+  margin-top: 10px;
+}
